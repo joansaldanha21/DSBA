@@ -1,7 +1,7 @@
 # print a pattern
 
 print "--" * 50
-print("Assignment 2.z : To print a pattern ")
+print("Assignment 2.a : To print a pattern ")
 print "--" * 50
 
 for i in range(1,6,1):
